@@ -9,7 +9,8 @@ CONFIG -= app_bundle
 
 SOURCES += \
         arinc429.cpp \
-        main.cpp
+        main.cpp \
+        tcpclient.cpp
 QT += network
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
@@ -18,4 +19,5 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 HEADERS += \
     arinc429.h \
-    enum.h
+    enum.h \
+    tcpclient.h
