@@ -54,3 +54,9 @@ compile_commands.json
 *_qmlcache.qrc
 
 build-BOLA-Desktop_Qt_6_4_3_MinGW_w64_CLANG64_MSYS2-Debug
+.vs
+BOLA/x64/Debug
+BOLA/BOLA/x64
+BOLA/BOLA/BOLA.vcxproj.user
+BOLA/BOLA/BOLA.vcxproj.filters
+BOLA/BOLA/BOLA.vcxproj
