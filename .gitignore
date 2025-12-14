@@ -59,7 +59,7 @@ build-BOLA-Desktop_Qt_6_4_3_MinGW_w64_CLANG64_MSYS2-Debug
 */.vs
 */BOLA
 */x64
-*/BOLA.slnx
-*/BOLA.vcxproj
-*/BOLA.vcxproj.filters
-*/BOLA.vcxproj.user
+*/*.slnx
+*/*.vcxproj
+*/*.vcxproj.filters
+*/*.vcxproj.user
